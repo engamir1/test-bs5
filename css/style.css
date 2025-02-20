@@ -1,0 +1,30 @@
+
+html{
+    font-family: 'Cairo', sans-serif;
+}
+
+body{
+    font-family: 'Cairo', sans-serif;
+ }
+ 
+
+ /* start navbar */
+ .navbar-brand  {   
+    font-family: 'Cairo', sans-serif;
+ }
+ .navbar-brand  span{
+    font-size: 28px;
+
+ }
+ /* end navbar */
+
+/* start main section */
+h3 {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 600; /* Bold */
+}
+/* end main section */
+.active-dot{
+    bottom: 15px;
+    left:10%;
+ }
